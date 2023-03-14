@@ -4,7 +4,7 @@
 ## A. Pengantar Object Detection
 
 <p align="center">
-    <img src="contents/object detection.gif" width="640" style="vertical-align:middle">
+    <img src="object detection.gif" width="640" style="vertical-align:middle">
 </p>
 
 Secara umum, tujuan dari object detection adalah menentukan `lokasi` dan `kategori objek` di dalam sebuah citra, melabeli objek dengan kotak yang disebut `bounding box` dan menampilkan nilai confidence dalam bentuk persentase.
