@@ -41,7 +41,7 @@ Dibawah ini merupakan perbandingan keakuratan (mAP) dan kecepatan.
     <img src="https://user-images.githubusercontent.com/72246401/218655653-c5d21b45-99be-417d-90dd-928458163b9d.png" width="640" style="vertical-align:middle">
 </p>
 
-## C. Arsitektur Object Detection (semisal YOLOv8 hanya menunjukkan file .yaml)
+## C. Arsitektur Object Detection
 
 Yolov8 (You Only Look Once version 8) adalah salah satu model deteksi objek real-time yang terkenal. Model ini memiliki arsitektur yang sangat efisien dan dapat mendeteksi berbagai jenis objek dengan akurasi yang tinggi.
 Arsitektur Yolov8 terdiri dari beberapa komponen utama:
