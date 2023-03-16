@@ -92,6 +92,7 @@ Standar perhitungan mAP@0.5 PASCAL VOC menggunakan Intersection Over Union (IoU)
 
 Selain PASCAL VOC terdapat juga COCO. COCO menggunakan IoU 0.5 sampai dengan 0.95 dengan step 0.05.
 
+
 ---
 
 - Code:
