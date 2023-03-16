@@ -104,8 +104,13 @@ Standar perhitungan mAP@0.5 PASCAL VOC menggunakan Intersection Over Union (IoU)
 
 Selain PASCAL VOC terdapat juga COCO. COCO menggunakan IoU 0.5 sampai dengan 0.95 dengan step 0.05.
 
-
 ---
 
 - Code:
 - [Pengumpulan Magang 3](https://www.deeplearningbook.org/)
+
+Source
+1.	Paper akademik Yolov8: https://arxiv.org/abs/2104.14754
+2.	Repository Github Yolov8: https://github.com/WongKinYiu/yolov8
+3.	Artikel blog tentang Yolov8: https://blog.roboflow.com/yolov8/
+4.	Presentasi Youtube tentang Yolov8: https://www.youtube.com/watch?v=m8-MvGcvkZI
