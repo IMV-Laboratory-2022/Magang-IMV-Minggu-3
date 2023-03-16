@@ -96,4 +96,4 @@ Selain PASCAL VOC terdapat juga COCO. COCO menggunakan IoU 0.5 sampai dengan 0.9
 ---
 
 - Code:
-[Pengumpulan Magang 3](https://www.deeplearningbook.org/)
+- [Pengumpulan Magang 3](https://www.deeplearningbook.org/)
