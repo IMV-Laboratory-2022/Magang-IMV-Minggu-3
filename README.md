@@ -1,4 +1,4 @@
-# Object Detection - Week 3
+# Object Detection
 ---
 
 ## A. Pengantar Object Detection
@@ -42,6 +42,18 @@ Dibawah ini merupakan perbandingan keakuratan (mAP) dan kecepatan.
 </p>
 
 ## C. Arsitektur Object Detection (semisal YOLOv8 hanya menunjukkan file .yaml)
+
+Yolov8 (You Only Look Once version 8) adalah salah satu model deteksi objek real-time yang terkenal. Model ini memiliki arsitektur yang sangat efisien dan dapat mendeteksi berbagai jenis objek dengan akurasi yang tinggi.
+Arsitektur Yolov8 terdiri dari beberapa komponen utama:
+
+1.	Backbone: Yolov8 menggunakan ResNet-152 sebagai backbone-nya, yaitu suatu jaringan konvolusi dalam yang telah terlatih untuk mengenali fitur-fitur umum pada gambar.
+2.	Neck: Yolov8 menggunakan FPN (Feature Pyramid Network) sebagai neck-nya, yaitu suatu jaringan yang menghubungkan output dari berbagai tingkat fitur pada backbone dan menghasilkan fitur yang lebih berkualitas tinggi.
+3.	Head: Yolov8 menggunakan Head yang terdiri dari beberapa layer konvolusi dan layer terkait lainnya untuk memproses fitur dari Neck dan menghasilkan bounding boxes serta kelas objek.
+4.	Output: Output dari Yolov8 adalah koordinat bounding boxes, skor kepercayaan, dan kelas objek yang terdeteksi.
+Dalam Yolov8, input gambar akan dibagi menjadi beberapa bagian dengan ukuran yang sama. Setiap bagian akan dijadikan input untuk model dan model akan mengeluarkan hasil deteksi untuk setiap bagian tersebut. Setelah itu, hasil deteksi akan digabungkan untuk menghasilkan hasil akhir.
+Dalam proses pelatihan, Yolov8 menggunakan objektif loss yang disebut "YOLOv5 loss". Objektif loss ini terdiri dari beberapa komponen, termasuk komponen untuk mengukur keakuratan bounding box, keakuratan kelas objek, dan pengurangan false positives.
+Dengan menggunakan arsitektur yang efisien dan objektif loss yang sesuai, Yolov8 dapat menghasilkan deteksi objek yang akurat dalam waktu nyata. Model ini sangat cocok untuk aplikasi seperti deteksi kendaraan di jalan raya atau deteksi orang dalam video.
+
 
 ## D. Evaluasi Model Object Detection
 
