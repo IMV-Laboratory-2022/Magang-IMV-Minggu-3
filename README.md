@@ -41,7 +41,7 @@ Dibawah ini merupakan perbandingan keakuratan (mAP) dan kecepatan.
     <img src="https://user-images.githubusercontent.com/72246401/218655653-c5d21b45-99be-417d-90dd-928458163b9d.png" width="640" style="vertical-align:middle">
 </p>
 
-## C. Arsitektur Object Detection (semisal YOLOv5 hanya menunjukkan file .yaml)
+## C. Arsitektur Object Detection (semisal YOLOv8 hanya menunjukkan file .yaml)
 
 ## D. Evaluasi Model Object Detection
 
