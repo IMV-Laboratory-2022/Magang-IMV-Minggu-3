@@ -118,4 +118,4 @@ Source
 2.	Repository Github Yolov8: https://github.com/WongKinYiu/yolov8
 3.	Artikel blog tentang Yolov8: https://blog.roboflow.com/yolov8/
 4.	Presentasi Youtube tentang Yolov8: https://www.youtube.com/watch?v=m8-MvGcvkZI
-5.  Youtube Anotasi: https://www.youtube.com/watch?v=NenFL5EgY_o
+5.  Tutorial RoboFlow: https://www.youtube.com/watch?v=NenFL5EgY_o
