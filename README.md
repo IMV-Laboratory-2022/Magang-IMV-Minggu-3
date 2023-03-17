@@ -110,7 +110,7 @@ Selain PASCAL VOC terdapat juga COCO. COCO menggunakan IoU 0.5 sampai dengan 0.9
 
 ---
 
-- Code:
+- Code: [Face Detection](https://colab.research.google.com/drive/1uzaFJ7sWV_CVynBGt6LK-8pW_lkOLpNn?usp=sharing)
 - [Pengumpulan Magang 3](https://www.deeplearningbook.org/)
 
 Source
